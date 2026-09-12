@@ -1,0 +1,6 @@
+{
+  "name": "SANG",
+  "description": "Connective Intelligence for People, Problems, Resources & Opportunities",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
